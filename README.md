@@ -1,9 +1,25 @@
-![welcome_PNG100](https://user-images.githubusercontent.com/79691025/144610732-8c24963a-2063-4672-8e63-6134f94a65bf.png)
+<img src="/welcome.png" alt="banner" align="center"/>
 
 
-<h1 align="center">Hi 👋, I'm Sam Wu</h1>
-<h3 align="center">Passionate about data engineering, app developing and providing UI/UX to users</h3>
+### Hi 👋, welcome to my Github homepage.
 
+My name is Sam Wu and I am a data engineer graduate who is passionate about data engineering, app developing and providing UI/UX to users
+
+---
+### Language & Tools
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge" /> 
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=red&style=for-the-badge" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=BLUE&style=for-the-badge" />
+<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=Microsoft Azure&logoColor=BLUE&style=for-the-badge" />
+<img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?logo=TABLEAU&logoColor=white&style=for-the-badge" />
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" />
+<img alt="POSTGRESQL" src="https://img.shields.io/badge/POSTGRESQL-4169E1?logo=POSTGRESQL&logoColor=white&style=for-the-badge" />
+<img alt="PhotoShop "src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" />
+</p>
+
+### What I am doing now?
 - 🔭 I’m currently working on [Cyclistic-bike-share-analysis-case-study](https://github.com/kcwu229/Cyclistic-bike-share-analysis-case-study)
 
 - 🌱 I’m currently learning **Web Development**
