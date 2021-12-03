@@ -1,3 +1,6 @@
+![welcome_PNG100](https://user-images.githubusercontent.com/79691025/144610732-8c24963a-2063-4672-8e63-6134f94a65bf.png)
+
+
 <h1 align="center">Hi 👋, I'm Sam Wu</h1>
 <h3 align="center">Passionate about data engineering, app developing and providing UI/UX to users</h3>
 
