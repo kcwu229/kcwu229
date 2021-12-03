@@ -41,7 +41,11 @@ If you want to want to chat with me, or you find some bugs/ problems from by rep
 </p>
 
 ---
+### My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kcwu229&show_icons=true&locale=en&layout=compact" alt="kcwu229" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=kcwu229&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Sam+Wu's+GitHub+Stats&show_icons=true"
+/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kcwu229&show_icons=true&locale=en" alt="kcwu229" /></p>
+### Most used Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwu229" />
