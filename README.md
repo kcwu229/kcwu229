@@ -19,14 +19,14 @@ I am Sam Wu, a data engineer graduate who is passionate about data engineering, 
 <img alt="PhotoShop "src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=for-the-badge" />
 </p>
 
-### What I am doing now?
-- 🔭 I’m currently working on [Cyclistic-bike-share-analysis-case-study](https://github.com/kcwu229/Cyclistic-bike-share-analysis-case-study)
+### About my project
+- 🦾 I’m currently working on [Cyclistic-bike-share-analysis-case-study](https://github.com/kcwu229/Cyclistic-bike-share-analysis-case-study)
 
-- 🌱 I’m currently learning **Web Development**
+- 🎓 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kcwu229?tab=repositories](https://github.com/kcwu229?tab=repositories)
+- 📂 You can find my projects at [my github](https://github.com/kcwu229?tab=repositories)
 
-- 📫 How to reach me **samwu229@gmail.com**
+- 📩 You can contact me at **samwu229@gmail.com**
 
 ### Send me message
 
