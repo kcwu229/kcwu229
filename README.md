@@ -20,7 +20,7 @@ I am Sam Wu, a data engineer graduate who is passionate about data engineering, 
 </p>
 
 ### About my project
-- 🦾 I’m currently working on [Spring MVC exercise](https://github.com/kcwu229/Cyclistic-bike-share-analysis-case-study)
+- 🦾 I’m currently working on [Spring MVC exercise](https://github.com/kcwu229/Spring-MVC-Exericse)
 
 - 🎓 I’m currently learning **Java Spring**
 
