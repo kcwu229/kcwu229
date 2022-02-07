@@ -12,7 +12,6 @@ I am Sam Wu, a data engineer graduate who is passionate about data engineering, 
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=BLUE&style=for-the-badge" />
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=Microsoft Azure&logoColor=BLUE&style=for-the-badge" />
 <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?logo=TABLEAU&logoColor=white&style=for-the-badge" />
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" />
 <img alt="POSTGRESQL" src="https://img.shields.io/badge/POSTGRESQL-4169E1?logo=POSTGRESQL&logoColor=white&style=for-the-badge" />
