@@ -18,7 +18,7 @@ I am Sam Wu, a programmer who is passionate about data engineering, app developi
 </p>
 
 ### About my project
-- 🦾 I’m currently working on [Mobile-App---Black-Jack-Game](https://github.com/kcwu229/Mobile-App---Black-Jack-Game)
+- 🦾 I’m currently working on [Mobile-App---Black-Jack-Game](https://github.com/kcwu229/Mobile-App-BlackJack-Game)
 - 🎓 I’m currently learning **Flutter**, and experiencing on using AI Gen tools -- stable diffusion
 
 - 📂 You can find my projects at [my github](https://github.com/kcwu229?tab=repositories)
