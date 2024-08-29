@@ -1,5 +1,4 @@
-<img src="/welcome.png" alt="banner" align="center"/>
-
+![Frame 3](https://github.com/user-attachments/assets/8995b6a8-bb84-49cc-aef0-cc1b6865ec2d)
 
 ### Hi 👋, welcome to my Github homepage.
 
