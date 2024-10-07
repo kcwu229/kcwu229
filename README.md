@@ -28,7 +28,7 @@ I am Sam Wu, a programmer who is passionate about data engineering, app developi
 
 If you want to want to chat with me, or you find some bugs/ problems from by repository projects, please let me know! You can find me at:
 <p>
-  <a href="https://www.linkedin.com/in/ka-cheong-wu-a5372021b">
+  <a href="https://www.linkedin.com/in/sam-wu-a5372021b/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"/ >
   </a>
   <a href="https://github.com/kcwu229/">
