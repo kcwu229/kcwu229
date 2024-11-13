@@ -17,7 +17,7 @@ I am Sam Wu, a programmer who is passionate about data engineering, app developi
 </p>
 
 ### About my project
-- 🦾 I am now studying both ReactJS + Spring Boot + REST API web application [ems-backend](https://github.com/kcwu229/ems-backend) and [ems-frontend](https://github.com/kcwu229/ems-frontend), and trying to enhance my old project of SAM Library. Also, I am taking time to try solving the exercise on LeeCode (https://github.com/kcwu229/LeetCodeSloution)
+- 🦾 I am now using ReactJS + Spring Boot + REST API web applications to revamp my Online Library Website. Also, I am taking time to try solving the exercise on LeeCode (https://github.com/kcwu229/LeetCodeSloution)
 - 🎓 I’m currently experiencing on using AI Gen tools like stable diffusion
 
 - 📂 You can find my projects at [my github](https://github.com/kcwu229?tab=repositories)
