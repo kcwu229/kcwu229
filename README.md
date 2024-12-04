@@ -40,12 +40,23 @@ Technology I'm learning
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
 <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" />
+  <img alt="Elipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" />
+</p>
+
+#### My teacher 
+<p>
+<img alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff"/>
+<img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" />
+<img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff" />
+<img alt="Google" src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white" />
+  
 </p>
 
 #### Deployment tool
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
 </p>
+
 
 ### About my project
 - 🦾 I am now using ReactJS + Spring Boot + REST API web applications to revamp my Online Library Website (https://github.com/kcwu229/Sam_Library). Also, I am taking time to try solving the exercise on LeeCode (https://github.com/kcwu229/LeetCodeSloution)
