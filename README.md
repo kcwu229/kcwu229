@@ -25,7 +25,6 @@ Technology I'm learning
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" />
 </p>
 
-
 #### BACK-END
 <p>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
@@ -49,7 +48,6 @@ Technology I'm learning
 <img alt="freeCodeCamp" src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" />
 <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff" />
 <img alt="Google" src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white" />
-  
 </p>
 
 #### Deployment tool
@@ -57,6 +55,7 @@ Technology I'm learning
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
 </p>
 
+---
 
 ### About my project
 - 🦾 I am now using ReactJS + Spring Boot + REST API web applications to revamp my Online Library Website (https://github.com/kcwu229/Sam_Library). Also, I am taking time to try solving the exercise on LeeCode (https://github.com/kcwu229/LeetCodeSloution)
@@ -65,6 +64,8 @@ Technology I'm learning
 - 📂 You can find my projects at [my github](https://github.com/kcwu229?tab=repositories)
 
 - 📩 You can contact me at **samwu229@gmail.com**
+
+---
 
 ### Send me message
 
