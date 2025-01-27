@@ -56,7 +56,7 @@ Technology I'm learning
 ---
 
 ### About my project
-- 🦾 I am now using ReactJS + Spring Boot + REST API web applications to revamp my Online Library Website (https://github.com/kcwu229/Sam_Library). Also, I am taking time to try solving the exercise on LeeCode (https://github.com/kcwu229/LeetCodeSloution)
+- 🦾 I am now using React Native to develop a mobile music player ([https://github.com/kcwu229/Sam_Library](https://github.com/kcwu229/musicPlayer)). Also, I am taking time to try solving the exercise on LeeCode (https://github.com/kcwu229/LeetCodeSloution)
 - 🎓 I’m currently experiencing on using AI Gen tools like stable diffusion
 
 - 📂 You can find my projects at [my github](https://github.com/kcwu229?tab=repositories)
