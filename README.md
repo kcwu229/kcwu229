@@ -5,9 +5,11 @@
 I am Sam Wu, a programmer who is passionate about data engineering, app developing and providing UI/UX to users
 
 
-Certificates I gained from Online Learning Platform 
+Certificates from E-Learning Platform 
 ---
-From Udemy / Coursera (https://github.com/kcwu229/Online-Course-Certs)
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) 
+##### https://github.com/kcwu229/Online-Course-Certs
 
 ---
 Technology I'm learning 
