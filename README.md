@@ -5,6 +5,11 @@
 I am Sam Wu, a programmer who is passionate about data engineering, app developing and providing UI/UX to users
 
 
+Certificates I gained from Online Learning Platform 
+---
+([https://github.com/kcwu229/Sam_Library](https://github.com/kcwu229/musicPlayer))
+
+---
 Technology I'm learning 
 ---
 #### Software
