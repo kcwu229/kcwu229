@@ -7,7 +7,7 @@ I am Sam Wu, a programmer who is passionate about data engineering, app developi
 
 Certificates I gained from Online Learning Platform 
 ---
-([https://github.com/kcwu229/Sam_Library](https://github.com/kcwu229/musicPlayer))
+From Udemy / Coursera (https://github.com/kcwu229/Online-Course-Certs)
 
 ---
 Technology I'm learning 
