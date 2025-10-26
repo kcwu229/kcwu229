@@ -2,7 +2,9 @@
 
 ### Hi 👋, welcome to my Github homepage.
 
-I am Sam Wu, a programmer who is passionate about data engineering, app developing and providing UI/UX to users
+👋 I am a motivated programmer passionate about software development, with skills in Java, Python, and JavaScript. My background in psychology, combined with my ongoing degree in computing, provides me with a unique perspective on technology and its impact on users.
+
+Currently, I am expanding my expertise by learning about cloud technologies and preparing for certification examinations. I am eager to leverage my skills and knowledge to make a positive impact in the tech industry.
 
 
 Certificates from E-Learning Platform 
