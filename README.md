@@ -65,7 +65,7 @@ Technology I'm learning
 ---
 
 ### About my project
-- 🦾 I am now learning about Java on Java Security, and Microservices with Spring React Native.
+- 🦾 I am now learning about Terraform (Infrastructure as code) and cloud.
   
 - 🎓 I’m currently taking a computing degree course.
 
