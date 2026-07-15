@@ -1,12 +1,11 @@
-![Frame 3](https://github.com/user-attachments/assets/aa5e0d82-8be7-4819-8cad-2055630aa3a8)
+<img width="1911" height="560" alt="Gemini_Generated_Image_n47rw5n47rw5n47r" src="https://github.com/user-attachments/assets/70bb1d20-62e8-4a4a-8ea7-be5265ca1363" />
 
 ### Hi 👋, welcome to my Github homepage.
+Hi there! 👋 I am a motivated Business Analyst at the intersection of technology, psychology, and business strategy. Although my roots are in software development (Python, Java, JS) and user psychology, I found my sweet spot in the BA role, where I translate 'tech-speak' into 'business value.'
 
-👋 I am a motivated programmer passionate about software development, with skills in Java, Python, and JavaScript. My background in psychology, combined with my ongoing degree in computing, provides me with a unique perspective on technology and its impact on users.
+My passion for programming hasn't waned; I just use it differently now! I rely on my coding skills to deeply understand technical constraints and collaborate with devs, while actively using cutting-edge AI tools to speed up my workflows. I also love applying my psychology background to help shape the UI/UX of products, ensuring they aren't just functional, but intuitive.
 
-Currently, I am expanding my expertise by learning about cloud technologies and preparing for certification examinations. I am eager to leverage my skills and knowledge to make a positive impact in the tech industry.
-
-
+With a strong foundation in cloud technologies, I'm eager to join a forward-thinking team to help them build smarter, more user-friendly software.
 Certificates from E-Learning Platform 
 ---
 
@@ -63,10 +62,8 @@ Technology I'm learning
 
 ---
 
-### About my project
-- 🦾 I am now learning about Terraform (Infrastructure as code) and cloud.
-  
-- 🎓 I’m currently taking a computing degree course.
+### About my project  
+- 🎓 I’m currently taking a computing part-time degree.
 
 - 📂 You can find my projects at [my github](https://github.com/kcwu229?tab=repositories)
 
