@@ -84,11 +84,6 @@ If you want to want to chat with me, or you find some bugs/ problems from by rep
 </p>
 
 ---
-### My Github Stats
+### My Dream
+<img width="1239" height="864" alt="Gemini_Generated_Image_ou3hmdou3hmdou3h" src="https://github.com/user-attachments/assets/7b1f62ba-9da7-43c5-b66b-00c7c3f341a5" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=kcwu229&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Sam+Wu's+GitHub+Stats&show_icons=true"
-/>
-
-### Most used Language
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcwu229" />
