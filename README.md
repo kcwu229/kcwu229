@@ -1,19 +1,27 @@
 <img width="1911" height="560" alt="Gemini_Generated_Image_n47rw5n47rw5n47r" src="https://github.com/user-attachments/assets/70bb1d20-62e8-4a4a-8ea7-be5265ca1363" />
 
 ### Hi 👋, welcome to my Github homepage.
-Hi there! 👋 I am a motivated Business Analyst at the intersection of technology, psychology, and business strategy. Although my roots are in software development (Python, Java, JS) and user psychology, I found my sweet spot in the BA role, where I translate 'tech-speak' into 'business value.'
+Hi there! 👋 I’m a Business Analyst 📊 who speaks code 💻, designs for human psychology 🧠, and builds with AI 🤖.
 
-My passion for programming hasn't waned; I just use it differently now! I rely on my coding skills to deeply understand technical constraints and collaborate with devs, while actively using cutting-edge AI tools to speed up my workflows. I also love applying my psychology background to help shape the UI/UX of products, ensuring they aren't just functional, but intuitive.
+I started in software development 🚀 (Python, Java, JS) and user psychology 🧠. Today, I use that unique mix to translate complex tech into real business value 📈.
 
-With a strong foundation in cloud technologies, I'm eager to join a forward-thinking team to help them build smarter, more user-friendly software.
-Certificates from E-Learning Platform 
+Here is how I work:
+
+🤖 AI-Powered: I use cutting-edge AI tools to supercharge my daily workflow and get things done faster ⚡.
+
+🎨 UI/UX-Focused: I apply my psychology background to shape intuitive, user-friendly product designs 📲.
+
+🤝 Dev-Friendly: My coding background and cloud training ☁️ mean I speak the development team's language fluently.
+
+Backed by a continuous learning mindset 📚 (and a collection of tech certificates 🎓), I’m ready to help a forward-thinking team build smarter software 💡. Let's connect! 🤝
 ---
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) 
 
 ---
-Technology I'm learning 
----
+### My Dream
+<img width="1239" height="864" alt="Gemini_Generated_Image_ou3hmdou3hmdou3h" src="https://github.com/user-attachments/assets/7b1f62ba-9da7-43c5-b66b-00c7c3f341a5" />
+
 #### Software
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff" /> 
@@ -84,6 +92,3 @@ If you want to want to chat with me, or you find some bugs/ problems from by rep
 </p>
 
 ---
-### My Dream
-<img width="1239" height="864" alt="Gemini_Generated_Image_ou3hmdou3hmdou3h" src="https://github.com/user-attachments/assets/7b1f62ba-9da7-43c5-b66b-00c7c3f341a5" />
-
